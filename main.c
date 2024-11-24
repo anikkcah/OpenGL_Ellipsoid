@@ -21,7 +21,7 @@ static GLfloat vdata[12][3] = {
   { Z, X, 0.0 }, { -Z, X, 0.0 }, { Z, -X, 0.0 }, { -Z, -X, 0.0 }
 };
 
-// Define triangle indices for the icosahedron faces (use origami reference)
+// Define triangle indices for the icosahedron faces (manually create 20 points from vdata)
 /*
 static GLuint tindices[20][3] = {
 { , ,  }, { , ,  }, { , ,  }, { , ,  }, { , ,  },
