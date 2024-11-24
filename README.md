@@ -1,5 +1,11 @@
 # OpenGL_Ellipsoid
 
+
+<p>
+<img src = "https://raw.githubusercontent.com/anikkcah/OpenGL_Ellipsoid/master/icosahedron.jpg" width="900" height="500" hspace="15">
+</p>
+
+
 ## NOTE :
 I did the OpenGL project as an assignment for Computer Graphics present in the curriculum of M.Tech in CSE (Machine Intelligence) coursework.
 We were given task for constructing 3D geometrical shapes.
