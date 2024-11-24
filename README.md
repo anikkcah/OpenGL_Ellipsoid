@@ -51,4 +51,4 @@ The vertices are then connected to form 20 triangular faces of icosahedron.
 By recursively subdividing these triangles, the surface is refined, transforming into a smoother sphere or ellipsoid.
  
 ## ICOSAHEDRON TRIANGULAR FACE INDICES :
-use your own values, by generating from the origami (pic above). 
+Manually connect these vertices to form 20 equilateral triangles. Each triangle is represented by three indices, corresponding to the vertex positions in vdata.
