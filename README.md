@@ -50,5 +50,5 @@ using these specific values for X and Z the code ensures that the icosahedron is
 The vertices are then connected to form 20 triangular faces of icosahedron.
 By recursively subdividing these triangles, the surface is refined, transforming into a smoother sphere or ellipsoid.
  
-## ICOSAHEDRON FACE TRIANGULAR INDICES :
+## ICOSAHEDRON TRIANGULAR FACE INDICES :
 use your own values, by generating from the origami (pic above). 
