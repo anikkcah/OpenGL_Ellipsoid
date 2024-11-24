@@ -1,6 +1,6 @@
 # OpenGL_Ellipsoid
 
-
+* img src - Wolfram Alpha (https://mathworld.wolfram.com/RegularIcosahedron.html)
 <p>
 <img src = "https://raw.githubusercontent.com/anikkcah/OpenGL_Ellipsoid/master/icosahedron.jpg" width="900" height="500" hspace="15">
 </p>
